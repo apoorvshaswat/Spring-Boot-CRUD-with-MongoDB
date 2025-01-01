@@ -1,7 +1,7 @@
 # Spring Boot CRUD with MongoDB
 
 ## Project Overview
-This is a basic Spring Boot application that performs CRUD operations (Create, Read, Update, Delete) on data stored in a MongoDB database. The application exposes RESTful APIs to interact with the database, making it a great example for learning how to integrate Spring Boot with MongoDB
+This is a basic Spring Boot application that performs CRUD operations (Create, Read, Update, Delete) on data stored in a MongoDB database. The application exposes RESTful APIs to interact with the database, making it a great example for learning how to integrate Spring Boot with MongoDB.
 
 ## Features
 - Create, Read, Update, Delete operations for a MongoDB collection.
